@@ -1,0 +1,7 @@
+1) Move operations in StableCoins.py into functions.
+2) Generate a weekly report or text output of the most 
+  recent supply growth reading.
+3) Make a parent class for useful general API methods. 
+  Gecko and Fred, for example, would be child classes.
+4) Adjust graph start date input to account for the 91 
+  days that have NaN in the data frame.
